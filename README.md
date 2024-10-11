@@ -20,7 +20,7 @@ The Weather Forecast Application is a web app built with Streamlit that allows u
 1. Clone the repository:
 ```bash
    git clone https://github.com/armanulhaq/weather-dashboard.git
-   cd weather-forecast-app
+   cd weather-dashboard
 ```
 2. Create a virtual environment:
 ```bash

@@ -21,6 +21,7 @@ The Weather Forecast Application is a web app built with Streamlit that allows u
    ```bash
    git clone https://github.com/yourusername/weather-forecast-app.git
    cd weather-forecast-app
+   ```
 2. Create a virtual environment:
 ```bash
 python -m venv venv

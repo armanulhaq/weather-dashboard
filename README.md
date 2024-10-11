@@ -18,10 +18,10 @@ The Weather Forecast Application is a web app built with Streamlit that allows u
 ## Installation
 
 1. Clone the repository:
-   ```bash
+```bash
    git clone https://github.com/yourusername/weather-forecast-app.git
    cd weather-forecast-app
-   ```
+```
 2. Create a virtual environment:
 ```bash
 python -m venv venv
